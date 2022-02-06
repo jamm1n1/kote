@@ -1,5 +1,6 @@
 package kote.run;
 
+import kote.Numberplay;
 import kote.ThreeOne;
 
 public class Run {
@@ -8,7 +9,6 @@ public class Run {
 		
 		ThreeOne a = new ThreeOne();
 		
-a.code();
 	}
 
 }
