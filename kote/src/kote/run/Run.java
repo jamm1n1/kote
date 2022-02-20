@@ -1,13 +1,15 @@
 package kote.run;
 
-import kote.Numberplay;
-import kote.ThreeOne;
+import kote.Plusormin;
+import kote.Width;
 
 public class Run {
 
 	public static void main(String[] args) {
 		
-		ThreeOne a = new ThreeOne();
+		Width w = new Width();
+		w.height(4,8);
+		
 		
 	}
 
